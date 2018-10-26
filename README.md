@@ -1,6 +1,6 @@
 # JADIN
 Just Another Distributed Information Network
-JADIN
+Jadin creates tcp connection to a hub from multiple clients, and allows data to flow from the client -> hub -> server, where our server will distribute the data and keep a master copy of the data on each available server. 
 
 Compile Java files
 
